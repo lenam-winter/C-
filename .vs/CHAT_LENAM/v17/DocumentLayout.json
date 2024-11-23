@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90881CD-5487-4D44-86FB-F9EFDA6960BE}|CHAT_LENAM\\CHAT_LENAM.csproj|d:\\.net\\laptrinhwindown\\chat_lenam\\chat_lenam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90881CD-5487-4D44-86FB-F9EFDA6960BE}|CHAT_LENAM\\CHAT_LENAM.csproj|solutionrelative:chat_lenam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90881CD-5487-4D44-86FB-F9EFDA6960BE}|CHAT_LENAM\\CHAT_LENAM.csproj|D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\chat_lenam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90881CD-5487-4D44-86FB-F9EFDA6960BE}|CHAT_LENAM\\CHAT_LENAM.csproj|solutionrelative:chat_lenam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B76E5-F958-4787-AAC2-A06F5207669A}|client\\client.csproj|D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B76E5-F958-4787-AAC2-A06F5207669A}|client\\client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B76E5-F958-4787-AAC2-A06F5207669A}|client\\client.csproj|D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561B76E5-F958-4787-AAC2-A06F5207669A}|client\\client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "client.cs",
+              "DocumentMoniker": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs",
+              "RelativeDocumentMoniker": "client\\client.cs",
+              "ToolTip": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs",
+              "RelativeToolTip": "client\\client.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:13:01.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "client.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs",
+              "RelativeDocumentMoniker": "client\\client.cs",
+              "ToolTip": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\client\\client.cs [Design]",
+              "RelativeToolTip": "client\\client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:12:14.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cs",
+              "DocumentMoniker": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\CHAT_LENAM\\server.cs",
+              "RelativeDocumentMoniker": "CHAT_LENAM\\server.cs",
+              "ToolTip": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\CHAT_LENAM\\server.cs",
+              "RelativeToolTip": "CHAT_LENAM\\server.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:16:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\CHAT_LENAM\\server.cs",
+              "RelativeDocumentMoniker": "CHAT_LENAM\\server.cs",
+              "ToolTip": "D:\\.NET\\laptrinhwindown\\CHAT_LENAM\\CHAT_LENAM\\server.cs [Design]",
+              "RelativeToolTip": "CHAT_LENAM\\server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:11:30.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

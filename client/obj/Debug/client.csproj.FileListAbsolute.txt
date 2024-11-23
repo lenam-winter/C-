@@ -1,0 +1,10 @@
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\bin\Debug\client.exe.config
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\bin\Debug\client.exe
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\bin\Debug\client.pdb
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.client.resources
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.Properties.Resources.resources
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.exe
+D:\.NET\laptrinhwindown\CHAT_LENAM\client\obj\Debug\client.pdb

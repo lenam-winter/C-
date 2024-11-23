@@ -1,0 +1,10 @@
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\bin\Debug\CHAT_LENAM.exe.config
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\bin\Debug\CHAT_LENAM.exe
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\bin\Debug\CHAT_LENAM.pdb
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.csproj.AssemblyReference.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.Properties.Resources.resources
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.server.resources
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.csproj.GenerateResource.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.csproj.CoreCompileInputs.cache
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.exe
+D:\.NET\laptrinhwindown\CHAT_LENAM\CHAT_LENAM\obj\Debug\CHAT_LENAM.pdb
